@@ -24,6 +24,7 @@
 | [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)      | AWS | | Completed       | [View](https://www.udemy.com/certificate/UC-EVKXZGAE/)
 | [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)      | Networking | | Completed       | NA
 | [Udacity: Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)      | Networking | | Completed       | NA
+| [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303) | Networking | | Completed       | NA
 | [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)      | Linux | | Completed       | NA
 | [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)      | Linux | | Completed       | NA
 | [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)      | Git | | Completed       | NA
