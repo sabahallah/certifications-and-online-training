@@ -21,7 +21,9 @@
 | [Udemy: Spring Framework And Dependency Injection](https://www.udemy.com/spring-framework-video-tutorial/)      | Backend | Spring| Completed       | [View](https://www.udemy.com/certificate/UC-K8QP42CS/)
 | [Udemy: Spring Framework Master Class](https://www.udemy.com/spring-tutorial-for-beginners/)   | Backend | Spring| Completed        | [View](https://www.udemy.com/certificate/UC-YA41DL6N/)
 | [Udemy: Spring Framework Tutorial: Practical, Rapid, Intuitive](https://www.udemy.com/spring-framework-4/)   | Backend | Spring| Completed        | [View](https://www.udemy.com/certificate/UC-LDDX2GL8/)
+| [Microservices with Spring Cloud](https://www.udemy.com/course/microservices-with-spring-cloud/) | Backend | Microservices & Spring Cloud| Completed | [View](https://www.udemy.com/certificate/UC-ad0a59a1-d725-4cb4-a33d-55a3f596b1b8/)
 | [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)      | AWS | | Completed       | [View](https://www.udemy.com/certificate/UC-EVKXZGAE/)
+| [Udemy: AWS Essentials](https://www.udemy.com/course/draft/1036550/)      | AWS | | Completed       | [View](https://www.udemy.com/certificate/UC-bfa7629c-0b65-4a51-92ce-7bb7942f9805/)
 | [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)      | Networking | | Completed       | NA
 | [Udacity: Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)      | Networking | | Completed       | NA
 | [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303) | Networking | | Completed       | NA
