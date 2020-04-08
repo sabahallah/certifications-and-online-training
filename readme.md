@@ -31,6 +31,7 @@
 | [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)      | Linux | | Completed       | NA
 | [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)      | Git | | Completed       | NA
 | [Udemy: Docker Essentials](https://www.udemy.com/course/docker-essentials/) | DevOps | Docker | Completed | NA
+| [Udemy: YAML Essentials](https://www.udemy.com/course/yaml-essentials) | Other | YAML | Completed | NA
 
 ## Awards and Recognitions
 
