@@ -32,6 +32,7 @@
 | [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)      | Git | | Completed       | NA
 | [Udemy: Docker Essentials](https://www.udemy.com/course/docker-essentials/) | DevOps | Docker | Completed | NA
 | [Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture) | DevOps| Docker | Completed | [View](https://app.pluralsight.com/profile/mahmoud-sabahallah)
+| [Pluralsight: Getting Started with Jenkins 2](https://www.pluralsight.com/courses/jenkins-2-getting-started) | DevOps| Jenkins | Completed | [View](https://app.pluralsight.com/profile/mahmoud-sabahallah)
 | [Udemy: YAML Essentials](https://www.udemy.com/course/yaml-essentials) | Other | YAML | Completed | NA
 
 ## Awards and Recognitions
